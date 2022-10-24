@@ -30,7 +30,7 @@
 
 |Game                |Repositories|
 |--------------------|------------|
-|2021: Splash 'n Dash|[![Yoink][card:bunnybots-yoink-2021]][repo:bunnybots-yoink-2021] <br>[![Candice-Cornchip][card:bunnybots-cornchip-2021]][repo:bunnybots-cornchip-2021]
+|2021: Splash 'n Dash|[![Yoink][card:bunnybots-perry-2021]][repo:bunnybots-perry-2021] <br>[![Candice-Cornchip][card:bunnybots-cornchip-2021]][repo:bunnybots-cornchip-2021]
 |2019: Knockout      |[![Liam][card:bunnybots-liam-2019]][repo:bunnybots-liam-2019] <br>[![Chonk][card:bunnybots-chonk-2019]][repo:bunnybots-chonk-2019]
 |2018: Box ‘Em Up    |[![Manhattan][card:bunnybots-manhattan-2018]][repo:bunnybots-manhattan-2018]<br>[![Big Dipper][card:bunnybots-bigdipper-2018]][repo:bunnybots-bigdipper-2018]<br>[![Garbo][card:bunnybots-garbo-2018]][repo:bunnybots-garbo-2018]
 |2017: Hide and Seek |[![Chalupa][card:bunnybots-chalupa-2017]][repo:bunnybots-chalupa-2017]<br>[![Kingbass][card:bunnybots-kingbass-2017]][repo:bunnybots-kingbass-2017]
@@ -56,7 +56,7 @@
 [repo:frc2015]:https://github.com/flamingchickens1540/quasar-helios-2015
 [repo:frc2014]:https://github.com/flamingchickens1540/gemini-apollo-2014
 
-[card:bunnybots-yoink-2021]:https://github-readme-stats.vercel.app/api/pin?username=flamingchickens1540&title_color=ffffff&icon_color=aaaaaa&text_color=eeeeee&bg_color=000000&repo=bunnybots-yoink-2021
+[card:bunnybots-perry-2021]:https://github-readme-stats.vercel.app/api/pin?username=flamingchickens1540&title_color=ffffff&icon_color=aaaaaa&text_color=eeeeee&bg_color=000000&repo=bunnybots-perry-2021
 [card:bunnybots-cornchip-2021]:https://github-readme-stats.vercel.app/api/pin?username=flamingchickens1540&title_color=ffffff&icon_color=aaaaaa&text_color=eeeeee&bg_color=000000&repo=bunnybots-cornchip-2021
 [card:bunnybots-liam-2019]:https://github-readme-stats.vercel.app/api/pin?username=flamingchickens1540&title_color=ffffff&icon_color=aaaaaa&text_color=eeeeee&bg_color=000000&repo=bunnybots-liam-2019
 [card:bunnybots-chonk-2019]:https://github-readme-stats.vercel.app/api/pin?username=flamingchickens1540&title_color=ffffff&icon_color=aaaaaa&text_color=eeeeee&bg_color=000000&repo=bunnybots-chonk-2019
@@ -69,7 +69,7 @@
 [card:bunnybots-jaeger-2016]:https://github-readme-stats.vercel.app/api/pin?username=flamingchickens1540&title_color=ffffff&icon_color=aaaaaa&text_color=eeeeee&bg_color=000000&repo=bunnybots-jaeger-2016
 [card:bunnybots-valkyrie-2015]:https://github-readme-stats.vercel.app/api/pin?username=flamingchickens1540&title_color=ffffff&icon_color=aaaaaa&text_color=eeeeee&bg_color=000000&repo=bunnybots-valkyrie-2015
 
-[repo:bunnybots-yoink-2021]:https://github.com/flamingchickens1540/bunnybots-yoink-2021
+[repo:bunnybots-perry-2021]:https://github.com/flamingchickens1540/bunnybots-perry-2021
 [repo:bunnybots-cornchip-2021]:https://github.com/flamingchickens1540/bunnybots-cornchip-2021
 [repo:bunnybots-liam-2019]:https://github.com/flamingchickens1540/bunnybots-liam-2019
 [repo:bunnybots-chonk-2019]:https://github.com/flamingchickens1540/bunnybots-chonk-2019
