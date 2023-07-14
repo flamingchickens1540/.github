@@ -11,6 +11,7 @@
 
 |Game                    |Repository|
 |------------------------|----------|
+|2023: Charged Up        |[![pesto][card:frc2023]][repo:frc2023]
 |2022: Rapid React       |[![toothless][card:frc2022]][repo:frc2022]
 |2020: Infinite Recharge |[![ares-luna-2020][card:frc2020]][repo:frc2020]
 |2019: Deep Space        |[![phineas-ferb-2019][card:frc2019]][repo:frc2019]
@@ -38,6 +39,7 @@
 |2015: Danger Zone   |[![Valkyrie][card:bunnybots-valkyrie-2015]][repo:bunnybots-valkyrie-2015]
 </details>
 
+[card:frc2023]:https://github-readme-stats.vercel.app/api/pin?username=flamingchickens1540&title_color=ffffff&icon_color=aaaaaa&text_color=eeeeee&bg_color=000000&repo=pesto
 [card:frc2022]:https://github-readme-stats.vercel.app/api/pin?username=flamingchickens1540&title_color=ffffff&icon_color=aaaaaa&text_color=eeeeee&bg_color=000000&repo=toothless
 [card:frc2020]:https://github-readme-stats.vercel.app/api/pin?username=flamingchickens1540&title_color=ffffff&icon_color=aaaaaa&text_color=eeeeee&bg_color=000000&repo=ares-luna-2020
 [card:frc2019]:https://github-readme-stats.vercel.app/api/pin?username=flamingchickens1540&title_color=ffffff&icon_color=aaaaaa&text_color=eeeeee&bg_color=000000&repo=phineas-ferb-2019
@@ -47,6 +49,7 @@
 [card:frc2015]:https://github-readme-stats.vercel.app/api/pin?username=flamingchickens1540&title_color=ffffff&icon_color=aaaaaa&text_color=eeeeee&bg_color=000000&repo=quasar-helios-2015
 [card:frc2014]:https://github-readme-stats.vercel.app/api/pin?username=flamingchickens1540&title_color=ffffff&icon_color=aaaaaa&text_color=eeeeee&bg_color=000000&repo=gemini-apollo-2014
 
+[repo:frc2023]:https://github.com/flamingchickens1540/pesto
 [repo:frc2022]:https://github.com/flamingchickens1540/toothless
 [repo:frc2020]:https://github.com/flamingchickens1540/ares-luna-2020
 [repo:frc2019]:https://github.com/flamingchickens1540/phineas-ferb-2019
